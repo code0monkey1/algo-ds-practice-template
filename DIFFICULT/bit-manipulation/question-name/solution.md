@@ -52,3 +52,31 @@ Things that were never said
 
 </div>
 </details>
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+   <summary>
+    Explanation
+   </summary>
+<div>
+
+Things that were never said
+
+</div>
+</details>
+
+<details>
+   <summary>
+     Code Solution
+   </summary>
+<div>
+
+Things that were never said
+
+</div>
+</details>
