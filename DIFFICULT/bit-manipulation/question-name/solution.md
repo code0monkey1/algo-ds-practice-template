@@ -1,6 +1,6 @@
 | Done | Date of Attempt | Attempts | Reflections |
 | ---- | --------------- | -------- | ----------- |
-| [ ]  |                 | 1        |             |
+| [x]  |                 | 1        |             |
 | [ ]  |                 | 2        |             |
 | [ ]  |                 | 3        |             |
 | [ ]  |                 | 4        |             |
@@ -13,27 +13,27 @@
 
 ---
 
-## Question
-
 <details>
-    <summary>Question</summary>
-
+    <summary>Question Name</summary>
+  <div>
+    Question Link / Question Text
+  </div>
 </details>
 
 <details>
    <summary>
      Hint 1
    </summary>
-<div>
 
-Things that were never said
+   <div>This is a hint</div>
+<div>
 
 </div>
 </details>
 
 <details>
    <summary>
-     Hint 1
+     Hint 2
    </summary>
 <div>
 
@@ -63,20 +63,19 @@ Things that were never said
    <summary>
     Explanation
    </summary>
-<div>
-
-Things that were never said
-
-</div>
+  <div>
+    > Explanation
+  
+  </div>
 </details>
 
 <details>
    <summary>
      Code Solution
    </summary>
-<div>
-
-Things that were never said
-
-</div>
+  <div>
+  
+  
+  `code`
+  </div>
 </details>
